@@ -6,10 +6,8 @@ It is a game which does not have any rules 😅.
 
 <p>
 -> choose a no which will be the no you will need to guess. 
-</ br>
 
 -> now the game will continuasly asking for input until you enter the guessed no. 
-</ br>
 
 -> when you guessed the correct no, it will end.
 </p>
